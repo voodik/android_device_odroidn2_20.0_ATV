@@ -1,0 +1,1 @@
+# android_device_odroidn2_20.0_ATV
